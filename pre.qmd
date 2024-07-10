@@ -1,0 +1,20 @@
+---
+title: "My Presentation"
+format:
+  revealjs:
+    incremental: true  
+---
+
+::: {.incremental}
+
+- Eat spaghetti
+- Drink wine
+
+:::
+
+::: {.nonincremental}
+
+- Eat spaghetti
+- Drink wine
+
+:::
